@@ -1,0 +1,91 @@
+[
+  {
+    "name": "Artificial Intelligence",
+    "image": "image.png",
+    "type" : [
+      {
+        "label" : "Machine Learning / Deep Learning",
+        "image" : "ml.png"
+      },
+      {
+        "label" : "Natural Language Processing (NLP)",
+        "image" : "ml.png"
+      },
+      {
+        "label" : "Computer Vision",
+        "image" : "ml.png"
+      },
+      {
+        "label" : "Robotics",
+        "image" : "ml.png"
+      }
+    ]
+  },
+  {
+    "name": "Web Development",
+    "image": "image.png",
+    "type" : [
+      {
+        "label" : "Frontend Development",
+        "image" : "ml.png"
+      },
+      {
+        "label" : "Backend Development",
+        "image" : "ml.png"
+      },
+      {
+        "label" : "Full Stack Development",
+        "image" : "ml.png"
+      }
+    ]
+  },
+  {
+    "name": "Game Development",
+    "image": "image.png",
+    "type" : [
+      {
+        "label" : "Game design",
+        "image" : "ml.png"
+      },
+      {
+        "label" : "Concept Art and Illustrations",
+        "image" : "ml.png"
+      },
+      {
+        "label" : "3D Modeling & Visual effects",
+        "image" : "ml.png"
+      },
+      {
+        "label" : "Game art and animation",
+        "image" : "ml.png"
+      },
+      {
+        "label" : "Game programming",
+        "image" : "ml.png"
+      },
+      {
+        "label" : "QA Testing",
+        "image" : "ml.png"
+      },
+      {
+        "label" : "Game publisher",
+        "image" : "ml.png"
+      }
+    ]
+  },
+  {
+    "name": "Mobile Development",
+    "image": "image.png",
+    "type" : [
+      {
+        "label" : "Android Development",
+        "image" : "ml.png"
+      },
+      {
+        "label" : "IOS Development",
+        "image" : "ml.png"
+      }
+
+    ]
+  }
+]
