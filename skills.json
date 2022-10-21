@@ -5,19 +5,19 @@
     "type" : [
       {
         "label" : "Machine Learning / Deep Learning",
-        "image" : "ml.png"
+        "image" : "https://cdn-icons-png.flaticon.com/512/2103/2103787.png"
       },
       {
         "label" : "Natural Language Processing (NLP)",
-        "image" : "ml.png"
+        "image" : "https://cdn-icons-png.flaticon.com/512/6062/6062395.png"
       },
       {
         "label" : "Computer Vision",
-        "image" : "ml.png"
+        "image" : "https://cdn-icons-png.flaticon.com/512/2586/2586647.png"
       },
       {
         "label" : "Robotics",
-        "image" : "ml.png"
+        "image" : "https://cdn-icons-png.flaticon.com/512/630/630426.png"
       }
     ]
   },
@@ -27,15 +27,15 @@
     "type" : [
       {
         "label" : "Frontend Development",
-        "image" : "ml.png"
+        "image" : "https://cdn-icons-png.flaticon.com/512/5047/5047314.png"
       },
       {
         "label" : "Backend Development",
-        "image" : "ml.png"
+        "image" : "https://cdn-icons-png.flaticon.com/512/6213/6213731.png"
       },
       {
         "label" : "Full Stack Development",
-        "image" : "ml.png"
+        "image" : "https://cdn-icons-png.flaticon.com/512/6674/6674591.png"
       }
     ]
   },
@@ -45,31 +45,31 @@
     "type" : [
       {
         "label" : "Game design",
-        "image" : "ml.png"
+        "image" : "https://cdn-icons-png.flaticon.com/512/4294/4294055.png"
       },
       {
         "label" : "Concept Art and Illustrations",
-        "image" : "ml.png"
+        "image" : "https://cdn-icons-png.flaticon.com/512/7521/7521891.png"
       },
       {
         "label" : "3D Modeling & Visual effects",
-        "image" : "ml.png"
+        "image" : "https://cdn-icons-png.flaticon.com/512/3124/3124850.png"
       },
       {
         "label" : "Game art and animation",
-        "image" : "ml.png"
+        "image" : "https://cdn-icons-png.flaticon.com/512/1374/1374723.png"
       },
       {
         "label" : "Game programming",
-        "image" : "ml.png"
+        "image" : "https://cdn-icons-png.flaticon.com/512/2463/2463510.png"
       },
       {
         "label" : "QA Testing",
-        "image" : "ml.png"
+        "image" : "https://cdn-icons-png.flaticon.com/512/4727/4727413.png"
       },
       {
         "label" : "Game publisher",
-        "image" : "ml.png"
+        "image" : "https://cdn-icons-png.flaticon.com/512/3959/3959322.png"
       }
     ]
   },
@@ -79,11 +79,11 @@
     "type" : [
       {
         "label" : "Android Development",
-        "image" : "ml.png"
+        "image" : "https://cdn-icons-png.flaticon.com/512/226/226770.png"
       },
       {
         "label" : "IOS Development",
-        "image" : "ml.png"
+        "image" : "https://cdn-icons-png.flaticon.com/512/731/731985.png"
       }
 
     ]
