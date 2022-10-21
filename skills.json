@@ -1,7 +1,7 @@
 [
   {
     "name": "Artificial Intelligence",
-    "image": "image.png",
+    "image": "https://github.com/MHamzaImran/Mobile-Application/blob/f5261a38d11e0943adc16629d7b34effd89d8fa7/coding.jpg",
     "type" : [
       {
         "label" : "Machine Learning / Deep Learning",
@@ -23,7 +23,7 @@
   },
   {
     "name": "Web Development",
-    "image": "image.png",
+    "image": "https://github.com/MHamzaImran/Mobile-Application/blob/f5261a38d11e0943adc16629d7b34effd89d8fa7/coding.jpg",
     "type" : [
       {
         "label" : "Frontend Development",
@@ -41,7 +41,7 @@
   },
   {
     "name": "Game Development",
-    "image": "image.png",
+    "image": "https://github.com/MHamzaImran/Mobile-Application/blob/f5261a38d11e0943adc16629d7b34effd89d8fa7/coding.jpg",
     "type" : [
       {
         "label" : "Game design",
@@ -75,7 +75,7 @@
   },
   {
     "name": "Mobile Development",
-    "image": "image.png",
+    "image": "https://github.com/MHamzaImran/Mobile-Application/blob/f5261a38d11e0943adc16629d7b34effd89d8fa7/coding.jpg",
     "type" : [
       {
         "label" : "Android Development",
