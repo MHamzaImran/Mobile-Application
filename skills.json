@@ -1,7 +1,7 @@
 [
   {
     "name": "Artificial Intelligence",
-    "image": "https://github.com/MHamzaImran/Mobile-Application/blob/f5261a38d11e0943adc16629d7b34effd89d8fa7/coding.jpg",
+    "image": "https://cdn-icons-png.flaticon.com/512/3205/3205493.png",
     "type" : [
       {
         "label" : "Machine Learning / Deep Learning",
@@ -23,7 +23,7 @@
   },
   {
     "name": "Web Development",
-    "image": "https://github.com/MHamzaImran/Mobile-Application/blob/f5261a38d11e0943adc16629d7b34effd89d8fa7/coding.jpg",
+    "image": "https://cdn-icons-png.flaticon.com/512/3242/3242313.png",
     "type" : [
       {
         "label" : "Frontend Development",
@@ -41,7 +41,7 @@
   },
   {
     "name": "Game Development",
-    "image": "https://github.com/MHamzaImran/Mobile-Application/blob/f5261a38d11e0943adc16629d7b34effd89d8fa7/coding.jpg",
+    "image": "https://cdn-icons-png.flaticon.com/512/3959/3959310.png",
     "type" : [
       {
         "label" : "Game design",
@@ -75,7 +75,7 @@
   },
   {
     "name": "Mobile Development",
-    "image": "https://github.com/MHamzaImran/Mobile-Application/blob/f5261a38d11e0943adc16629d7b34effd89d8fa7/coding.jpg",
+    "image": "https://cdn-icons-png.flaticon.com/512/6470/6470993.png",
     "type" : [
       {
         "label" : "Android Development",
